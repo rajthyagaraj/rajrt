@@ -1,0 +1,16 @@
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\bin\Debug\Speech Recognized.exe.config
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\bin\Debug\Speech Recognized.exe
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\bin\Debug\Speech Recognized.pdb
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech_Recognized.Form1.resources
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech_Recognized.Properties.Resources.resources
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech Recognized.csproj.GenerateResource.Cache
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech Recognized.exe
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech Recognized.pdb
+D:\Projects\Speech Recognized\Speech Recognized\bin\Debug\Speech Recognized.exe.config
+D:\Projects\Speech Recognized\Speech Recognized\bin\Debug\Speech Recognized.exe
+D:\Projects\Speech Recognized\Speech Recognized\bin\Debug\Speech Recognized.pdb
+D:\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech_Recognized.Form1.resources
+D:\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech_Recognized.Properties.Resources.resources
+D:\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech Recognized.csproj.GenerateResource.Cache
+D:\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech Recognized.exe
+D:\Projects\Speech Recognized\Speech Recognized\obj\Debug\Speech Recognized.pdb
