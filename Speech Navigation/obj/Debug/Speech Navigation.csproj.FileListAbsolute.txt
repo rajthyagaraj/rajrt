@@ -1,0 +1,8 @@
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\bin\Debug\Speech Navigation.exe.config
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\bin\Debug\Speech Navigation.exe
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\bin\Debug\Speech Navigation.pdb
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\obj\Debug\Speech_Navigation.Form1.resources
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\obj\Debug\Speech_Navigation.Properties.Resources.resources
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\obj\Debug\Speech Navigation.csproj.GenerateResource.Cache
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\obj\Debug\Speech Navigation.exe
+C:\Users\Rajath T\Documents\Visual Studio 2015\Projects\Speech Navigation\Speech Navigation\obj\Debug\Speech Navigation.pdb
